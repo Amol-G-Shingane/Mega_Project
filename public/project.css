@@ -1,0 +1,173 @@
+#aboutus{
+    background-image: url('img/AboutUs.webp');
+    background-size: cover;
+    text-align: center;
+    margin-top: 10%;
+    color: aliceblue;    
+  }
+
+#photu{
+    background-color: black;    
+  }
+  
+
+#navbarfixed{
+    position: fixed;
+    top: 0;    
+    z-index: 3;
+  }
+
+#navbarfixed1{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+  }
+
+#logo{
+    background-image: url(./favicon.ico);
+    width: 400px;
+    height: 400px;
+  }
+
+#div1{        
+        margin-top: 10%;
+    }
+
+#loginbg{
+      padding-top: 1%;
+      background-image: url('img/LoginPagebg.jpg');       
+      background-size: cover;
+    }
+
+#SaveBookingDiv{
+      margin-top: 10%;
+      opacity: 0.9;
+    }
+    #divUpdatebg{
+      background-image: url('https://images.pexels.com/photos/4052195/pexels-photo-4052195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+      background-size: cover;
+    }
+#divUpdate{
+ 
+  margin-top: 10%;
+  opacity: 0.9;
+}
+#div2{
+      opacity: 0.9;      
+    }
+
+#serviceanchor{
+      color: black;
+      text-decoration: none;
+    }
+
+#footer{
+      margin-top: 150px;
+    }
+
+#footer2{
+      margin-top: 12%;
+    }
+
+#csignupbg{      
+      background-image: url('img/SignUpbg.webp');
+      background-size: cover;
+      margin-top: 10%;
+      padding-top: 2%;     
+    }
+
+#paymentbg{
+      opacity: o.8;
+      background-image: url('img/Paymentbg.webp');
+      background-size: cover;
+    }
+
+#savebookingbg{
+      background-image: url('img/SaveBookingsbg.jpg');
+      background-size: cover;
+      margin-top: 10%;      
+    }
+
+#div3{
+      opacity: 1;
+    }
+
+#loginbtn{
+      height:36px;
+      width:80px;
+      color: black;
+      background-color: orange;
+    }
+
+#admin{
+      background-image: url('img/AdminHomebg.webp');
+      background-size: cover;
+      margin-top: 4.7%;
+      height: 90%;
+    }
+
+#customerhome{
+      background-image: url('img/CustomerHomebg.webp');
+      background-size: cover;
+      margin-top: 4.7%;
+      height: 90%;      
+    }
+
+#new1{
+      height: 200px;
+      z-index: -2;
+    }
+
+#ownerhome{      
+      background-image: url('img/OwnerHomebg.jpg');
+      background-size: cover;
+      margin-top: 4.7%;
+      height: 90%;      
+    }    
+
+#table{
+      background-color:#212529;
+      color:white;
+      opacity: 0.7;
+      text-align: center;
+    }
+
+#table2{
+      background-color:white;
+      color:#212529;
+      opacity: 0.8;
+      text-align: center;
+    }
+    
+#homebg{
+      background-image: url('img/Dashboardbg.jpeg');
+      background-size: cover;      
+    }
+
+#home{
+      margin-top: 10%;
+    }
+
+#servicebike{
+      background-color: skyblue;
+    }
+
+#adminhome{      
+      opacity: 0.7;
+    }
+
+    .box:hover{
+      box-shadow: 10px 10px 20px 5px #984141;
+      height: 300px;
+      width: 100%;}
+
+      select, option {
+        width: 100%;
+        height: 39px;
+        border: 1px solid #dddcde;
+        border-radius: 4px;
+    }
+    
+    
+    
